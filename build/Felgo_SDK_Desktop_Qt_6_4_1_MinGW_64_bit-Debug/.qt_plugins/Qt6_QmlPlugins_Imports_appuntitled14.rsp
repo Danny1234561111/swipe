@@ -1,0 +1,14 @@
+-rootPath
+C:/Users/user/Documents/untitled14
+-cmake-output
+-output-file
+C:/Users/user/Documents/untitled14/build/Felgo_SDK_Desktop_Qt_6_4_1_MinGW_64_bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_appuntitled14.cmake
+-importPath
+C:/Users/user/Documents/untitled14/build/Felgo_SDK_Desktop_Qt_6_4_1_MinGW_64_bit-Debug/untitled14
+-importPath
+C:/Users/user/Documents/untitled14/build/Felgo_SDK_Desktop_Qt_6_4_1_MinGW_64_bit-Debug
+-importPath
+C:/Felgo/Felgo/mingw_64/./qml
+-qrcFiles
+C:/Users/user/Documents/untitled14/build/Felgo_SDK_Desktop_Qt_6_4_1_MinGW_64_bit-Debug/.rcc/qmake_untitled14.qrc
+C:/Users/user/Documents/untitled14/build/Felgo_SDK_Desktop_Qt_6_4_1_MinGW_64_bit-Debug/.rcc/appuntitled14_raw_qml_0.qrc

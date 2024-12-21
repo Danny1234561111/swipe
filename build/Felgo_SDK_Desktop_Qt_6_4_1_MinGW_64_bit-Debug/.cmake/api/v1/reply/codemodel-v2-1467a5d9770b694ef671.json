@@ -1,0 +1,160 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-6ce872f062bb996a1091.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "untitled14",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint-Debug-65a95060cef812c46b3a.json",
+					"name" : "all_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_json-Debug-d9168c15ac7809f02aa8.json",
+					"name" : "all_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmltyperegistrations::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmltyperegistrations-Debug-c624f4faf3bd05c86a25.json",
+					"name" : "all_qmltyperegistrations",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appuntitled14::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appuntitled14-Debug-95195bb628026b9a3751.json",
+					"name" : "appuntitled14",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appuntitled14_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appuntitled14_autogen-Debug-df5fafe8757cd4f1efd5.json",
+					"name" : "appuntitled14_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appuntitled14_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appuntitled14_autogen_timestamp_deps-Debug-417cc0882307fd9b652b.json",
+					"name" : "appuntitled14_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appuntitled14_other_files::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appuntitled14_other_files-Debug-f7c5fff180bf60a966a3.json",
+					"name" : "appuntitled14_other_files",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appuntitled14_qmlimportscan::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appuntitled14_qmlimportscan-Debug-890b480e7169ec2339db.json",
+					"name" : "appuntitled14_qmlimportscan",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appuntitled14_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appuntitled14_qmllint-Debug-cf5feed0c4712f443e2b.json",
+					"name" : "appuntitled14_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appuntitled14_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appuntitled14_qmllint_json-Debug-9237123d14116f9ff436.json",
+					"name" : "appuntitled14_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appuntitled14_qmltyperegistration::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appuntitled14_qmltyperegistration-Debug-55c9d1de62b37c079ecf.json",
+					"name" : "appuntitled14_qmltyperegistration",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appuntitled14_tooling::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appuntitled14_tooling-Debug-3c9d72720820a7ebeb0f.json",
+					"name" : "appuntitled14_tooling",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/user/Documents/untitled14/build/Felgo_SDK_Desktop_Qt_6_4_1_MinGW_64_bit-Debug",
+		"source" : "C:/Users/user/Documents/untitled14"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

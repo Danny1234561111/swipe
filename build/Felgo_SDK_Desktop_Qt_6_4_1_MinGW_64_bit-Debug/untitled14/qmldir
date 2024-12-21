@@ -1,0 +1,5 @@
+module untitled14
+typeinfo appuntitled14.qmltypes
+prefer :/untitled14/
+Main 1.0 Main.qml
+
